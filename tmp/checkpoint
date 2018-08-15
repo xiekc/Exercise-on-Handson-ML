@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:/Users/xiekch/Documents/ML/handson-ml/my/tmp/my_model_final.ckpt"
+all_model_checkpoint_paths: "C:/Users/xiekch/Documents/ML/handson-ml/my/tmp/my_model.ckpt"
+all_model_checkpoint_paths: "C:/Users/xiekch/Documents/ML/handson-ml/my/tmp/my_model_final.ckpt"
